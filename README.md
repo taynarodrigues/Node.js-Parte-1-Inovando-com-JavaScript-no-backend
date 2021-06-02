@@ -35,8 +35,7 @@ Backend:
 3. Rode `npm install` dentro da pasta `casadocodigo`;
 4. Na pasta `casadocodigo` execute `npm start` pra iniciar o servidor de desenvolvimento;
 
-### Postman 
-Para testar a API do Be The Hero, baixe e instale o [Postman](https://www.postman.com). 
+
 
 
 ----------
